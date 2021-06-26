@@ -1,94 +1,16 @@
-# Pandas-challenge
-Pandas homework
+This assignment builds off the previous Python learnings. The Pandas library was leveraged to analyze data within a CSV file. Code was written to produce output for:
 
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-Your final report should include each of the following:
+<li>Total players</li>
+<li>Purchase analysis (total)</li>
+<li>Gender demographics</li>
+<li>Purchase analysis (gender)</li>
+<li>Purchasing analysis (age)</li>
+<li>Top spenders</li>
+<li>Most popular items</li>
+<li>Most profitable items</li>
 
-Player Count
+<br>
 
-Total Number of Players
+DataFrames were used throughout the Jupyter Notebook to display information. <br>
 
-
-Purchasing Analysis (Total)
-
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
-
-
-Gender Demographics
-
-Percentage and Count of Male Players
-Percentage and Count of Female Players
-Percentage and Count of Other / Non-Disclosed
-
-
-Purchasing Analysis (Gender)
-
-The below, each broken by gender
-
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Gender
-
-
-
-
-Age Demographics
-
-The below, each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
-
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Age Group
-
-
-
-
-Top Spenders
-
-Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-
-SN
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-
-
-
-
-Most Popular Items
-
-Identify the 5 most popular items by purchase count, then list (in a table):
-
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
-
-
-
-
-Most Profitable Items
-
-Identify the 5 most profitable items by total purchase value, then list (in a table):
-
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
-
-
-
-As final considerations:
-
-You must use the Pandas library and a Jupyter Notebook.
-You must submit a link to your GitHub repo that contains your Jupyter Notebook.
-You must include a written description of three observable trends based on the data.
-See Example Solution for a reference on expected format.
+A written evaluation was also completed based on reviewing the data evaluated. 
